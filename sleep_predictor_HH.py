@@ -54,12 +54,12 @@ st.sidebar.markdown('<p class="medium-font">The Generative AI in Health Hackatho
 
 st.sidebar.markdown('<p class="small-font">This is a simple app created to analyze sleep and activity data collected\
                         from multiple participants and sensors such as Samsung watch, Oura, imu, ppg, and etc.\
-                        The data source can be further studied at https://datadryad.org/stash/dataset/doi:10.7280/D1WH6T \
-                     </p>                  \
+                        The data source can be further studied at https://datadryad.org/stash/dataset/doi:10.7280/D1WH6T  </p> \
                     <p>This app analyses a participants sleep and activity and provides timeseries of health vitals as well as\
                     some basic statistics for these vitals.\
-                    </p> The participant can further explore the app and receive mutimodal health recommendations along with\
-                    references to visit as needed.
+                    <p> The participant can further explore the app and receive mutimodal health recommendations along with\
+                    references to visit as needed.</p> \
+                    <p>For more information, visit our Git Hub at https://github.com/siamaky1984/health_AI_hackathon</p> \
                     Comments? <p>Email: </p>'
                     , unsafe_allow_html=True)
 ###########################################################################
